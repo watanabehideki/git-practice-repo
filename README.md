@@ -1,1 +1,1 @@
-# git-practice-repo
+# Git 練習リポジトリ
